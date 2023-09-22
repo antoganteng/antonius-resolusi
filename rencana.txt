@@ -2,4 +2,5 @@ RENCANA
 - JAVASCRIPT 
 PHP  
   FRAMEWORK LARAVEL
+Model
 controller
