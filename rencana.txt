@@ -3,3 +3,4 @@ RENCANA
 PHP  
   FRAMEWORK LARAVEL
 Model
+controller
